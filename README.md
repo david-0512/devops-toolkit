@@ -53,7 +53,7 @@ ansible-playbook ansible/server-init.yml -i hosts.ini
 ---
 
 ## 👨‍💻 Author
-**Guo Jianrui**  
+**Jerry**  
 DevOps Engineer | Cloud Architect | Infrastructure-as-Code Enthusiast
 
 🔗 [GitHub](https://github.com/yourusername) | 🇯🇵 Based in Japan (UTC+9)
